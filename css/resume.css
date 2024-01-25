@@ -86,7 +86,7 @@ h2 {
             display: block; } }
 
 section.resume-section {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #7492AA;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important; }
   section.resume-section .resume-item .resume-date {
@@ -110,6 +110,6 @@ section.resume-section {
   color: #7492AA !important; }
 
 a {
-  color: #B6CBD9; }
+  color: #7492AA; }
   a:hover, a:focus, a:active {
     color: #dee2e6; }
