@@ -38,16 +38,16 @@ h2 {
   font-size: 1.35rem; }
 
 .list-social-icons a {
-  color: #495057; }
+  color: #343a40; }
   .list-social-icons a:hover {
-    color: #dee2e6; }
+    color: #868e96; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
 .list-icons {
   font-size: 3rem; }
-  .list-icons .list-inline-item i:hover {
-    color: #7492AA; }
+  .list-icons .list-inline-item i:hover {  
+    color: #dee2e6; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -70,7 +70,7 @@ h2 {
       #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: 0.5rem solid rgba(116, 146, 170, 0.2); }
+        border: 0.5rem solid rgba(222, 226, 230, 0.2); }
     #sideNav .navbar-collapse {
       display: flex;
       align-items: flex-start;
@@ -86,7 +86,7 @@ h2 {
             display: block; } }
 
 section.resume-section {
-  border-bottom: 1px solid #B6CBD9;
+  border-bottom: 1px solid #7492AA;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important; }
   section.resume-section .resume-item .resume-date {
